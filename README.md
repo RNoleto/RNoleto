@@ -10,11 +10,14 @@
   <img align="center" alt="RNoleto-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="RNoleto-Js" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="RNoleto-Js" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+  <img align="center" alt="RNoleto-Js" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img align="center" alt="RNoleto-Js" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
 </div> 
   
 ##
 
-  <div>
-  <a href="https://www.linkedin.com/in/ramon-noleto-b0913545/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <div style="display: inline_block">
+    
+  <a href="https://www.linkedin.com/in/ramon-noleto-b0913545/" target="_blank"><img align="center" alt="RNoleto-Js" height="80" widht="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"/></a>
   </div>
   
