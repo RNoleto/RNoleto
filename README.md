@@ -1,4 +1,5 @@
 ### Olá! Eu sou o Ramon Noleto
+Estudante independente em desenvolvimento de softwares e apaixonado por tecnologia, games e animais! 🖥️🎮🐶
 ##
 <div align="center">
   <a href="https://github.com/RNoleto">
