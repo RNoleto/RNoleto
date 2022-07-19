@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Ramon Noleto
-Formado em Gerenciamento de Redes de Computadores🖥️🎮🐶
-Pós graduado em Engenharia de Sistemas
+<p>Formado em Gerenciamento de Redes de Computadores🖥️🎮🐶</p>
+<p>Pós graduado em Engenharia de Sistemas</p>
 Estudante de Engenharia de Software
 E estudante indepentende de desenvolvimento web.
 ##
