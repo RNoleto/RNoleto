@@ -1,5 +1,8 @@
 ### Olá! Eu sou o Ramon Noleto
-trabalho como Analista de Sistemas e tenho formação em Gerenciamento de Redes de Computadores 🖥️🎮🐶
+Formado em Gerenciamento de Redes de Computadores🖥️🎮🐶
+Pós graduado em Engenharia de Sistemas
+Estudante de Engenharia de Software
+E estudante indepentende de desenvolvimento web.
 ##
 <div align="center">
   <a href="https://github.com/RNoleto">
