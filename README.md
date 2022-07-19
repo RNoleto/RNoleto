@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Ramon Noleto
-Estudante independente em desenvolvimento de softwares e apaixonado por tecnologia, games e animais! 🖥️🎮🐶
+trabalho como Analista de Sistemas e tenho formação em Gerenciamento de Redes de Computadores 🖥️🎮🐶
 ##
 <div align="center">
   <a href="https://github.com/RNoleto">
