@@ -1,8 +1,7 @@
-### Olá! Eu sou o Ramon Noleto
-<p>Formado em Gerenciamento de Redes de Computadores</p>
+### Olá! Eu sou o Ramon Noleto e estou em busca da minha primeira oportunidade.
+<p>Sou criativo, organizado e sempre disposto a colaborar com o time, estou sempre em busca de novos conhecimentos e motivado a entregar bons resultados.</p>
 <p>Pós graduado em Engenharia de Sistemas</p>
 <p>Estudante de Engenharia de Software</p>
-<p>E desenvolvedor em evolução.</p>
 <div align="center">
   <a href="https://github.com/RNoleto">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RNoleto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
