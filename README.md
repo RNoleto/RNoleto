@@ -2,10 +2,13 @@
 <div style="display: inline_block">
     
   <a href="https://www.linkedin.com/in/ramon-noleto-b0913545/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/RNoleto#2229" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   </div>
 
-<p>Sou criativo, organizado e sempre disposto a colaborar com o time, estou sempre em busca de novos conhecimentos e motivado a entregar bons resultados.</p>
+<p>Sou uma pessoa criativa e organizada, busco sempre novos desafios que me fazem crescer profissionalmente e pessoalmente.</p>
+<p>Tenho formação como Tecnologo em Redes de Computadores, Pós graduado em Engenharia de Software e atualmente cursando Engenharia de Software 🤓 </p>
+<p>Tenho afinidade com frontend, mas como atuo de forma independente, estou sempre buscando novos conhecimentos para poder me tornar um profissional completo</p>
+<p>Sou apaixonado por tecnologia e ideias inovadoras e estou em busca de oportunidades como desenvolvedor em empresas voltadas para esse seguimento.</p>
+<p>Sempre disposto a ajudar.</p>
 
 ##
 
@@ -24,8 +27,6 @@
   -
   <img align="center" alt="RNoleto-Js" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
 </div> 
-  
-##
 
   
   
