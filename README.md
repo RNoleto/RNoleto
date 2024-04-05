@@ -21,7 +21,7 @@
 ## Tecnologias
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,php,mysql,vue,laravel,tailwind,sass" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,wordpress,js,php,mysql,vue,laravel,tailwind,sass" />
   </a>
 </p>
 
