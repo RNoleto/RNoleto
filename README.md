@@ -18,10 +18,10 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RNoleto&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## Tecnologias
+## Tecnologias do Dia a Dia
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,wordpress,js,php,mysql,vue,laravel,tailwind,sass" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,php,mysql,vue,laravel,tailwind,sass,wordpress," />
   </a>
 </p>
 
